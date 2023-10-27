@@ -70,7 +70,7 @@ See also [key features](https://en.oceanbase.com/product/opensource) for more de
 
 ## 🔥 Start with all-in-one
 
-You can quickly deploy a standalone OceanBase Database to experience with the following commands.
+You can quickly deploy a standalone OceanBase Database to experience the following commands.
 
 **Note**: Linux Only
 
@@ -110,7 +110,7 @@ For future plans, see [Roadmap 2023](https://github.com/oceanbase/oceanbase/issu
 
 # Case study
 
-OceanBase has been serving more than 400 customers upgrade their database from different industries, including Financial Services, Telecom, Retail, Internet and more.
+OceanBase has been serving more than 400 customers upgrading their database from different industries, including Financial Services, Telecom, Retail, Internet, and more.
 
 See also [success stories](https://en.oceanbase.com/customer/home) and [Who is using OceanBase](https://github.com/oceanbase/oceanbase/issues/1301) for more details.
 
@@ -120,7 +120,7 @@ See also [success stories](https://en.oceanbase.com/customer/home) and [Who is u
 
 # Contributing
 
-Contributions are highly appreciated. Read the [development guide](docs/README.md) to getting started.
+Contributions are highly appreciated. Read the [development guide](docs/README.md) to get started.
 
 # License
 
